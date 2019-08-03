@@ -1,3 +1,9 @@
+.idea
+jvm-brotli-example.iml
+
+src/encoded.br
+src/decoded.txt
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
